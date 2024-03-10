@@ -1,0 +1,14 @@
+C:\Users\ELMZ\Desktop\C# ippfm\lista01\bin\Debug\net6.0\lista01.exe
+C:\Users\ELMZ\Desktop\C# ippfm\lista01\bin\Debug\net6.0\lista01.deps.json
+C:\Users\ELMZ\Desktop\C# ippfm\lista01\bin\Debug\net6.0\lista01.runtimeconfig.json
+C:\Users\ELMZ\Desktop\C# ippfm\lista01\bin\Debug\net6.0\lista01.dll
+C:\Users\ELMZ\Desktop\C# ippfm\lista01\bin\Debug\net6.0\lista01.pdb
+C:\Users\ELMZ\Desktop\C# ippfm\lista01\obj\Debug\net6.0\lista01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ELMZ\Desktop\C# ippfm\lista01\obj\Debug\net6.0\lista01.AssemblyInfoInputs.cache
+C:\Users\ELMZ\Desktop\C# ippfm\lista01\obj\Debug\net6.0\lista01.AssemblyInfo.cs
+C:\Users\ELMZ\Desktop\C# ippfm\lista01\obj\Debug\net6.0\lista01.csproj.CoreCompileInputs.cache
+C:\Users\ELMZ\Desktop\C# ippfm\lista01\obj\Debug\net6.0\lista01.dll
+C:\Users\ELMZ\Desktop\C# ippfm\lista01\obj\Debug\net6.0\refint\lista01.dll
+C:\Users\ELMZ\Desktop\C# ippfm\lista01\obj\Debug\net6.0\lista01.pdb
+C:\Users\ELMZ\Desktop\C# ippfm\lista01\obj\Debug\net6.0\lista01.genruntimeconfig.cache
+C:\Users\ELMZ\Desktop\C# ippfm\lista01\obj\Debug\net6.0\ref\lista01.dll
